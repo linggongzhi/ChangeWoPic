@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">聚迎烩</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="TuJp">下红框图信息</string>
+    <string name="Canon">Canon渐变</string>
+    <string name="Panasonic">Panasonic渐变</string>
+    <string name="NIKON">NIKON D5300渐变</string>
+</resources>
